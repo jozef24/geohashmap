@@ -1,0 +1,7 @@
+.static {
+  position: static!important
+}
+
+.center_div{
+  margin: auto auto;
+}
